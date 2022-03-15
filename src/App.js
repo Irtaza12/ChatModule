@@ -15,7 +15,7 @@ const App = () => {
            userSecret="12345"
            renderChatFeed={ (chatAppProps) => <ChatFeed  {... chatAppProps} />}
 
-       />
+       />  
     )
     } 
     
